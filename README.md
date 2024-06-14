@@ -1,7 +1,7 @@
 # AVL-Tree-Visualization-with-Flutter
 This Flutter project provides a visual representation of an AVL Tree data structure, complete with functionality to insert, delete, and search for nodes. The project uses custom animations to visualize the balancing and rotations that occur in an AVL Tree.
 
-#Features
+Features
 
 Insertion: Add nodes to the AVL Tree, maintaining balance through rotations.
 Deletion: Remove nodes from the AVL Tree, with automatic re-balancing.
